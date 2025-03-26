@@ -1,5 +1,12 @@
 nginx
 python:alpine3.19
+tomcat
+tomcat:8.5
+httpd
+mysql:9.0
+mysql:latest
+mariadb:latest
+redis:6.0
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
